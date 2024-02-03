@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858604079763",
+    "project_id": "want-coffe",
+    "storage_bucket": "want-coffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858604079763:android:8dc102198708d153b9db66",
+        "android_client_info": {
+          "package_name": "com.example.want_coffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeMlfqZgjwdliKBI2bMY34KEQmXbhAk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
